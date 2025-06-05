@@ -1,0 +1,6 @@
+print("Video Games")
+print("1.Mobile Legends")
+print("2.Legends of Legends")
+print("3.Clash of Clans")
+print("4.Boom Beach")
+print("5.Minecraft")

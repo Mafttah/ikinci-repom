@@ -1,4 +1,4 @@
 print("Animes")
-print("Attack on Titan")
-print("Vinland Saga")
-print("Demon Slayer")
+print("1.Attack on Titan")
+print("2.Vinland Saga")
+print("3.Demon Slayer")
