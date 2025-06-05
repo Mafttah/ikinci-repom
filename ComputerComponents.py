@@ -1,0 +1,5 @@
+print("CPU")
+print("Merkezi işlem birimidir.")
+print("Bilgisayarın beynidir.") 
+print("Genel olarak bilgisayarın yaptığı işlemleri ve komutları işler.") 
+print("İşletim sistemleri, yazılımlar ve uygulamalar tarafından yapılan istekleri, verilen talimatları yorumlayıp yerine getirir.")

@@ -1,0 +1,5 @@
+print("Percy Jackson and Olympians")
+print("Percy Jackson and Olympos Heroes")
+print("Cane Chronikles")
+print("Magnus Chase and Gods of Asgard")
+print("Trialls of Apollo")
