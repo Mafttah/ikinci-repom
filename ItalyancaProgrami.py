@@ -1,0 +1,8 @@
+print("Sto imparando l'italiano = I am learning Italian")
+print("Salve = Hello")
+print("Come stai = How are you?")
+print("Piacere = Nice to meet you")
+print("A_presto = See you soon")
+print("Buona_Sera = Good Evening")
+print("Arrivederci = Good bye")
+print("Di dove sei = Where are you from")
