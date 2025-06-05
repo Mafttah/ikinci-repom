@@ -1,0 +1,7 @@
+print("SJ'apprends le français = I am learning French")
+print("Salut = Hello")
+print("Comment ca va = How are you?")
+print("Encante = Nice to meet you")
+print("A_bientot = See you soon")
+print("Bonne_soiree = Good Evening")
+print("A_demain = See you tomorrow")
