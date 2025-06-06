@@ -1,0 +1,30 @@
+print("FootballClubs")
+print("")
+
+print("German Football Clubs")
+print("")
+
+print("Bayern München")
+print("Borussia Dortmund") 
+print("RB Leipzig")
+print("Hamburg")
+print("VfB Stuttgart")
+print("1. FC_Köln")
+print("Borussia Mönchengladbach")
+print("Eintracht Frankfurt")
+print("Werder Bremen") 
+print("Bayer Leverkusen")
+
+print("")
+
+print("Spanish Football Clubs")
+print("")
+
+print("Madrid")
+print("Alavés")
+print("Almería")
+print("Athletic Bilbao")
+print("Barcelona")
+print("Cádiz")
+print("Celta Vigo")
+print("Girona")
