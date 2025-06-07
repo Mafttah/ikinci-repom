@@ -85,28 +85,33 @@ print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print(" C. CPU Tipleri:")
 print("")
-print("Devam etmek için A'ya basiniz.")
-keyboard.wait("A")
+print("Devam etmek için spacebar'a basiniz.")
+keyboard.wait("space")
+print("")
 
 print(" 1. Masaüstü ( Desktop ) CPU:")
+print("")
 print("Genellikle kişisel bilgisayarlarda kullanılır.")
 print("Güçlü performans sunar.")
 print("Soğutma için genellikle fan veya sıvı soğutma gerekir.")
 print("")
 
-print("Devam etmek için S'ye basiniz.")
-keyboard.wait("S")
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
 
 print(" 2. Dizüstü ( Laptop ) CPU:")
+print("")
 print("Daha az enerji tüketir, daha az ısı üretir.")
 print("Genellikle masaüstü CPU’ lara göre biraz daha düşük performans sunar.")
 print("")
 
-print("Devam etmek için Q'ya basiniz.")
-keyboard.wait("Q")
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
 
 print(" 3. Sunucu ( Server ) CPU:")
 print("Çok çekirdekli ve yüksek işlem kapasiteli güçlü CPU’lardır.")
@@ -123,8 +128,8 @@ print(" 4. Mobile ( Telefon/Tablet/Saat ) CPU:")
 print("Düşük güç tüketimi ve uzun pil ömrü sağlar.")
 print("")
 
-print("Devam etmek için P'ye basiniz.")
-keyboard.wait("P")
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
 
 
 print(" D. CPU Marka ve Modelleri:")
