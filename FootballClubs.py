@@ -71,6 +71,7 @@ print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("England Fottball Clubs")
 print("Manchester United")
