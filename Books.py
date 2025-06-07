@@ -141,6 +141,31 @@ print("7. The Caldera")
 print("8. Return of the Temujai")
 print("9. The Stern Chase")
 
+print("Devam etmek için spacebar'a basiniz")
+keyboard.wait("space") 
+
+print("Sarah J. Maas's Books")
+print("")
+
+print("Devam etmek için enter'a basiniz")
+keyboard.wait("enter") 
+
+print("1. Throne of Glass Books Series")
+print("")
+
+print("Devam etmek için enter'a basiniz")
+keyboard.wait("enter") 
+
+print("1. The Assassin's Blade")
+print("2. Throne of Glass")	
+print("3. Crown of Midnight")	
+print("4. Heir of Fire")	
+print("5. Queen of Shadows")	
+print("6. Empire of Storms")	
+print("7. Tower of Dawn")	
+print("8. Kingdom of Ash")
+print("")
+
 print("Programdan çıkmak için Esc' ye basınız")
 
 keyboard.wait("esc")
