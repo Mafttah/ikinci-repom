@@ -121,7 +121,23 @@ print("")
 print("2.Legends of Legends")
 print("")
 
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+
+print("League of Legends Leagues") 
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("1. LCK League-Güney Kore")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("space")
+print("")
+
 print("Gen.G")
 print("Hanwha Life Esports")
 print("T1")
