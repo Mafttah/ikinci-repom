@@ -2,6 +2,7 @@ import keyboard
 print("Sto imparando l'italiano = I am learning Italian")
 
 print("Greeting")
+print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")

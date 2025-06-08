@@ -119,7 +119,11 @@ keyboard.wait("space")
 print("")
 
 print("D. Malezya (MPL-MY)")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
 print("")
+
 print("Selangor Red Giants")
 print("HomeBois")
 print("Team SMG")
@@ -127,6 +131,10 @@ print("Team HAQ")
 print("TODAK")
 print("Aero Esports")
 print("DXSoul Esports")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("space")
 print("")
 
 
@@ -138,17 +146,22 @@ print("NIP Flash")
 print("Team Vamos")
 print("")
 
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("2.Legends of Legends")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("League of Legends Leagues") 
 print("")
 
-print("Devam etmek için enter'a basiniz.")
-keyboard.wait("enter")
+print("Devam etmek için spacebar'a basiniz.")
+keyboard.wait("space")
 print("")
 
 print("A. LCK League-South Korea")
@@ -170,10 +183,17 @@ print("OKSavingsBank BRION")
 print("BNK FearX")
 print("")
 
+print("Devam etmek için spacebar'a basiniz.")
+keyboard.wait("space")
+print("")
 
 print("B. LPL League-China")
 print("")
-      
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")      
+
 print("Bilibili Gaming (BLG)")
 print("Top Esports (TES)")
 print("JD Gaming (JDG)")
@@ -192,7 +212,17 @@ print("TT Gaming (TT)")
 print("LGD Gaming (LGD)")     
 print("")
 
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("C. LEC-Avrupa")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("G2 Esports")
 print("Fnatic")
 print("Team Vitality")
@@ -203,8 +233,16 @@ print("MAD Lions")
 print("Excel Esports")
 print("Astralis")
 print("Rogue")
+print("")
+
+print("Devam etmek için spacebar'a basiniz.")
+keyboard.wait("space")
 
 print("D. VCS League-Vietnam Championship Series")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
 print("")
 
 print("GAM Esports")
@@ -217,7 +255,14 @@ print("Luxury Esports")
 print("Percent Esports") 
 print("")
 
+print("Devam etmek için spacebar'a basiniz.")
+keyboard.wait("space")
+
 print("E. PCS-Pacific Championship Series")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
 print("")
 
 print("PSG Talon")
@@ -232,7 +277,15 @@ print("Liyab Esports")
 print("Berjaya Dragons")
 print("")
 
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("F. LLA-Liga Latinoamérica")
+print("")
+
+print("Devam etmek için spacebar'a basiniz.")
+keyboard.wait("space")
 print("")
 
 print("Infinity Esports")
@@ -243,6 +296,10 @@ print("Isurus")
 print("Rainbow7")
 print("Kaos Latin Gamers")
 print("XTEN Esports")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
 print("")
 
 print("G. CBLOL-Campeonato Brasileiro de LoL")

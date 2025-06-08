@@ -4,12 +4,14 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print("German Football Clubs")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Bayern München")
 print("Borussia Dortmund") 
@@ -34,16 +36,18 @@ print("TSG Hoffenheim")
 print("Union Berlin")
 print("Vfl Wolfsburg")
 print("Werder Bremen")
+print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-
 print("")
+
 print("Spanish Football Clubs")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Real Madrid")
 print("Atletico Madrid")

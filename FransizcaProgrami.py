@@ -3,6 +3,7 @@ print("SJ'apprends le français = I am learning French")
 print("")
 
 print("Greeting")
+print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")

@@ -4,11 +4,14 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print("Asian Countries")
+print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Georgia")
 print("Ermenia")
@@ -45,9 +48,11 @@ print("Turkmenistan")
 print("United Arab Emirates")
 print("Uzbekistan")
 print("Vietnam")
+print("")
 
 print("Devam etmek için entera basınız.")
 keyboard.wait("enter")
+print("")
 
 print("")
 
@@ -59,6 +64,7 @@ print("")
 
 print("Devam etmek için spacebara basınız.")
 keyboard.wait("space")
+print("")
 
 print("United Kingdom")
 print("Andorra")
@@ -85,9 +91,11 @@ print("")
 
 print("Devam etmek için spacebara basınız.")
 keyboard.wait("space")
+print("")
 
 print("Iskandinavian ve Baltik Countries")
 print("")
+
 print("Estonia") 
 print("Russia")
 print("Finland")
@@ -102,12 +110,14 @@ print("")
 
 print("Devam etmek için spacebara basınız.")
 keyboard.wait("space")
+print("")
 
 print("Balkan Countries")
 print("")
 
 print("Devam etmek için spacebara basınız.")
 keyboard.wait("space")
+print("")
 
 print("Bosnia Herzegovina") 
 print("Montenegro")
@@ -129,12 +139,14 @@ print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("South American Countries")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Argentina")
 print("Uruguay")

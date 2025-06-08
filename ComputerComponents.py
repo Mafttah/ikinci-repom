@@ -4,6 +4,7 @@ print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Merkezi işlem birimidir.")
 print("Bilgisayarın beynidir.") 
@@ -13,11 +14,14 @@ print("İşletim sistemleri, yazılımlar ve uygulamalar tarafından yapılan is
 print("")
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print(" A. CPU’ nun Temel Bileşenleri:") 
 print("")
+
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print(" 1. ALU ( Aritmetik Logic Unit )")
 print("Aritmetik mantık birimidir.") 
@@ -26,12 +30,14 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print(" 2. CU ( Central Unit )")
 print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print("Merkezi kontrol birimidir.")
 print("Gelen istekleri, komutları yorumlayıp gerekli yere gönderir.")
@@ -39,12 +45,14 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print(" 3. Register ( Yazmaç )")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Geçici veri depolama alanlarıdır.")
 print("CPU’ nun çok hızlı eriştiği hafıza hücreleridir.")
@@ -54,17 +62,21 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print(" B. CPU’nun Temel Görevleri:")
 print("")
+
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print(" 1. Aritmetik ve Mantıksal İşlemler:")
 print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print("Toplama, çıkarma, çarpma ve bölme işlemlerini ve ayrıca da karşılaştırma ve mantıksal işlemleri de yapar.")
 print("")
@@ -78,6 +90,7 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print(" 3. Kontrol:")
 print("İş isteklerini ve program akışını yönetir. Hangi işlemin ne zaman yapılacağını belirler.") 
@@ -89,12 +102,14 @@ print("")
 
 print(" C. CPU Tipleri:")
 print("")
+
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
 print("")
 
 print(" 1. Masaüstü ( Desktop ) CPU:")
 print("")
+
 print("Genellikle kişisel bilgisayarlarda kullanılır.")
 print("Güçlü performans sunar.")
 print("Soğutma için genellikle fan veya sıvı soğutma gerekir.")
@@ -106,14 +121,22 @@ print("")
 
 print(" 2. Dizüstü ( Laptop ) CPU:")
 print("")
+
 print("Daha az enerji tüketir, daha az ısı üretir.")
 print("Genellikle masaüstü CPU’ lara göre biraz daha düşük performans sunar.")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print(" 3. Sunucu ( Server ) CPU:")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("Çok çekirdekli ve yüksek işlem kapasiteli güçlü CPU’lardır.")
 print("Çoklu görev ve sanallaştırma ortamları için kullanılır.")
 print("Silver, gold ve platinum tiplerinde  kategorize edilir.")
@@ -123,14 +146,21 @@ print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
+print("")
 
 print(" 4. Mobile ( Telefon/Tablet/Saat ) CPU:") 
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("Düşük güç tüketimi ve uzun pil ömrü sağlar.")
 print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-
+print("")
 
 print(" D. CPU Marka ve Modelleri:")
 print("Günümüzde birçok CPU markası olmasına rağmen en çok bilinen aşağıdaki gibidir:")
@@ -139,7 +169,13 @@ print("")
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
  
-print("1. Intel:") 
+print("1. Intel:")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("En çok tercih edilen CPU markasıdır.")
 print("Modelleri: i3, i5, i7, i9, Ultra 3, Ultra 5, Ultra 7, Ultra 9, Xeon, Atom ( çok kullanılmıyor.")
 print("Intel sitesi = intel.com")
@@ -147,8 +183,15 @@ print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-                  
+print("")
+                                
 print("2. AMD")
+print("")
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("İntel’ in en büyük rakibidir.")
 print("Fiyat olarak daha ekonomiktir.")
 print("Ryzen ( masaüstü/dizüstü), Ryzen 9000 ( oyun platformu ), EPYC ( sunucu sistemleri") 
@@ -159,6 +202,12 @@ print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
 
 print("3. Apple Silicon:")
+print("") 
+
+print("Devam etmek için enter'a basiniz.")
+keyboard.wait("enter")
+print("")
+
 print("Apple yıllarca İntel CPU kullanıyordu. 2020 yılında Apple Silicon adında kendi işlemcilerini üretmeye başladı. Bu işlemciler ARM tabanlıdır.")
 print("M1, M2, M3, M4 olarak bilinirler. Apple dünyasında sunucu kavramı çok belirgin değildir.")
 print("Günümüzde Intel ve AMD’ ye yakın Apple sunucu işlemcisi Mac Stüdyo ürününde M3 Ultra olarak adlandırılmaktadır.")
@@ -167,6 +216,7 @@ print("")
 
 print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
+print("")
 
 print("Ozetle: Tum islemcilerde; Cekirdek sayisi (Core), islemci hizi (CPU Frekans), On bellek buyuklugu Cok onemlidir. Islemci yi olceklendirir.")
 
