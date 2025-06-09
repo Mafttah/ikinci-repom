@@ -1,11 +1,17 @@
 import keyboard
+
+import colorama
+from colorama import Fore, init
+init()
+
+print(Fore.BLUE,'Countries')
 print("Coutries")
 print("")
 
 print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
 print("")
-
+print(Fore.RED,'Asian Countries')
 print("Asian Countries")
 print("")
 
