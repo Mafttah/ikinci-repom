@@ -7,16 +7,11 @@ init()
 print(Fore.RED,'Countries')
 print("")
 
-print("Devam etmek için spacebar'a basiniz.")
-keyboard.wait("space")
-print("")
+keyboard.wait("enter")
 print(Fore.BLUE,'Asian Countries')
 print("")
 
-print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-print("")
-
 print(Fore.WHITE)
 print("Georgia")
 print("Ermenia")
@@ -55,17 +50,11 @@ print("Uzbekistan")
 print("Vietnam")
 print("")
 
-print("Devam etmek için entera basınız.")
 keyboard.wait("enter")
-print("")
-
 print(Fore.GREEN,'European Countries')
 print("")
 
-print("Devam etmek için spacebara basınız.")
-keyboard.wait("space")
-print("")
-
+keyboard.wait("enter")
 print(Fore.WHITE)
 print("United Kingdom")
 print("Andorra")
@@ -90,17 +79,11 @@ print("San-Marino")
 print("France") 
 print("")
 
-print("Devam etmek için spacebara basınız.")
-keyboard.wait("space")
-print("")
-
+keyboard.wait("enter")
 print(Fore.YELLOW,'Iskandinavian ve Baltik Countries')
 print("")
 
-print("Devam etmek için spacebara basınız.")
-keyboard.wait("space")
-print("")
-
+keyboard.wait("enter")
 print(Fore.WHITE)
 print("Estonia") 
 print("Russia")
@@ -114,17 +97,11 @@ print("Belarus")
 print("Norway")
 print("")
 
-print("Devam etmek için spacebara basınız.")
-keyboard.wait("space")
-print("")
-
+keyboard.wait("enter")
 print(Fore.YELLOW, 'Balkan Countries')
 print("")
 
-print("Devam etmek için spacebara basınız.")
-keyboard.wait("space")
-print("")
-
+keyboard.wait("enter")
 print(Fore.WHITE)
 print("Bosnia Herzegovina") 
 print("Montenegro")
@@ -144,17 +121,11 @@ print("Kosovo")
 print("Albania")
 print("")
 
-print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-print("")
-
 print(Fore.RED, 'South American Countries')
 print("")
 
-print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-print("")
-
 print(Fore.WHITE)
 print("Argentina")
 print("Uruguay")
@@ -170,17 +141,11 @@ print("Suriname")
 print("Venezuela")
 print("")
 
-print("Devam etmek için spacebar'a basiniz.")
-keyboard.wait("space")
-print("")
-
+keyboard.wait("enter")
 print(Fore.RED, 'African Countries')
 print("")
 
-print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
-print("")
-
 print(Fore.WHITE)
 print("Cezayir")
 print("Angola")
