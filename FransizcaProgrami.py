@@ -4,6 +4,9 @@ from colorama import Fore
 print("SJ'apprends le français = I am learning French")
 print("")
 
+import colorama
+from colorama import Fore
+
 print(Fore.BLUE,'Greeting')
 print("Greeting")
 print("")
