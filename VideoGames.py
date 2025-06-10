@@ -315,11 +315,6 @@ print("KaBuM Esports")
 print("Cruzeiro Esports")
 print("Rensga Esports")
 
-
-print("3.Clash of Clans")
-print("4.Boom Beach")
-print("5.Minecraft")
-
 print("Programdan çıkmak için Esc' ye basınız")
 
 keyboard.wait("esc")
