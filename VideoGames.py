@@ -133,7 +133,7 @@ print("Aero Esports")
 print("DXSoul Esports")
 print("")
 
-print("Devam etmek için enter'a basiniz.")
+print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
 print("")
 
@@ -167,7 +167,7 @@ print("")
 print("A. LCK League-South Korea")
 print("")
 
-print("Devam etmek için enter'a basiniz.")
+print("Devam etmek için spacebar'a basiniz.")
 keyboard.wait("space")
 print("")
 

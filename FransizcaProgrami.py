@@ -8,7 +8,7 @@ print("")
 
 print(Fore.RED,'Greeting')
 print("")
-
+print("Devam etmek için enter'a basınız") 
 keyboard.wait("enter")
 print("")
 

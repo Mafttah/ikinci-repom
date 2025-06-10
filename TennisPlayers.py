@@ -6,6 +6,7 @@ print("Devam etmek için space'a basiniz.")
 keyboard.wait("space")
 
 print("Men Tennis Players")
+print("")
 print("Novak Djokovic")
 print("Boris Becker")
 print("Björn Borg")
