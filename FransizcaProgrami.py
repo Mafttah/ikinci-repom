@@ -6,14 +6,14 @@ init()
 print("SJ'apprends le français = I am learning French")
 print("")
 
-print(Fore.BLUE,'Greeting')
+print(Fore.RED,'Greeting')
 print("Greeting")
 print("")
 
-print("Devam etmek için spacebar'a basiniz.")
-keyboard.wait("space")
+keyboard.wait("enter")
 print("")
 
+print(Fore.WHITE)
 print("Salut = Hello")
 print("Comment ca va = How are you?")
 print("Encante = Nice to meet you")
