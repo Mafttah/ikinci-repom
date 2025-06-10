@@ -7,6 +7,7 @@ init()
 print(Fore.RED,'Countries')
 print("")
 
+print("Devam etmek için enter'a basiniz.")
 keyboard.wait("enter")
 print(Fore.BLUE,'Asian Countries')
 print("")
