@@ -7,7 +7,6 @@ print("SJ'apprends le français = I am learning French")
 print("")
 
 print(Fore.RED,'Greeting')
-print("Greeting")
 print("")
 
 keyboard.wait("enter")
