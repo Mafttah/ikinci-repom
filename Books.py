@@ -25,7 +25,6 @@ print("3. Titan’s Curse")
 print("4. Battle of the Labyrinth")
 print("5. Last Olympian")
 print("")
-
 print("Devam etmek için enter'a basiniz")
 keyboard.wait("enter") 
 print("")
